@@ -32,18 +32,6 @@ The solution uses Tableau to design interactive dashboards and stories that:
 
 ---
 
-## 🔄 Project Workflow
-1. Brainstorming and Problem Identification  
-2. Requirement Analysis  
-3. Data Collection and Preprocessing  
-4. Data Quality Analysis  
-5. Dashboard Design  
-6. Story Creation in Tableau  
-7. Visualization and Insight Generation  
-8. Documentation and Deployment
-
----
-
 ## 📊 Project Features
 - Interactive Tableau Dashboards
 - Data Storytelling Visualization
@@ -53,4 +41,3 @@ The solution uses Tableau to design interactive dashboards and stories that:
 
 ---
 
-## 📁 Project Structure
