@@ -8,7 +8,9 @@ This project focuses on analyzing housing market trends by studying property sal
 The project applies data analytics concepts such as data collection, data cleaning, visualization, dashboard creation, and storytelling to support better decision-making in the real estate domain.
 ---
 ##  📌 Project Dashboard URL  
-To view the Dashboard clik link below
+To view the Dashboard clik link below.
+
+
 https://public.tableau.com/views/visualzationhousingmarkettrendsmahima/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
