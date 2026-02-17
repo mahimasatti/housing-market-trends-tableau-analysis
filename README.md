@@ -35,6 +35,8 @@ The solution uses Tableau to design interactive dashboards and stories that:
 - Flask (Web application execution)
 - HTML, CSS (Web interface)
 - MS Excel / Dataset Files
+- <img width="782" height="632" alt="image" src="https://github.com/user-attachments/assets/a1abb8bf-2992-4600-982b-f2a2b7051dc2" />
+
 
 ---
 
