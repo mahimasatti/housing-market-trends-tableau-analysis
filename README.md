@@ -2,10 +2,13 @@
 Visualization of housing market trends and analysis of sales prices and property features using Tableau dashboards and data analytics techniques.
 # Visualization of Housing Market Trends and Analysis of Sales Prices and Features using Tableau
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing housing market trends by studying property sales prices and important housing features using Tableau. The main objective is to transform raw housing data into meaningful visual insights that help users understand price variations, market behavior, and factors influencing property values.
 
 The project applies data analytics concepts such as data collection, data cleaning, visualization, dashboard creation, and storytelling to support better decision-making in the real estate domain.
+---
+##  📌 Project Dashboard URL  
+To view the Dashboard clik link below
 https://public.tableau.com/views/visualzationhousingmarkettrendsmahima/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
