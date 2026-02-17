@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<nav>
+    <a href="/">Home</a> |
+    <a href="/dashboard">Dashboard</a> |
+    <a href="/story">Story</a> |
+    <a href="/about">About</a>
+</nav>
+
+<div class="container">
+    <h2>About This Project</h2>
+
+    <p>
+        This project was developed as part of the SmartBridge Internship.
+        It focuses on analyzing Housing Trends using Tableau dashboards and stories.
+    </p>
+
+    <p>
+        The web application is built using Flask and integrates Tableau Public 
+        dashboards into a dynamic website interface.
+    </p>
+    
+
+<div class="about-section">
+
+    <div class="about-image">
+        <img src="{{ url_for('static', filename='about.jpg') }}" alt="About Image">
+    </div>
+
+    <div class="about-content">
+        <h3>Project Goals</h3>
+        <p>
+        The primary goal of this project is to analyze housing market trends using 
+        interactive data visualization techniques. The project identifies pricing 
+        patterns and regional variations through meaningful dashboards.
+        </p>
+
+        <h3>Challenges</h3>
+        <p>
+        Data cleaning and selecting appropriate visualization methods were key challenges. 
+        Integrating Tableau dashboards into a Flask web application required careful 
+        embedding and layout adjustments.
+        </p>
+
+        <h3>Analysis & Utilization of Tableau</h3>
+        <p>
+        Tableau was used to design interactive dashboards and storyboards. 
+        Filters, comparisons, and trend analysis features allow dynamic exploration 
+        of housing data insights.
+        </p>
+    </div>
+
+</div>
+
+    <p>
+        Technologies Used:
+        <br>• Python (Flask)
+        <br>• HTML & CSS
+        <br>• Tableau Public
+    </p>
+</div>
+
+<footer>
+    Developed by Satti Mahima & Gopisetti Pavithra | SmartBridge Internship 2026
+</footer>
+
+</body>
+</html>
